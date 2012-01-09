@@ -1,0 +1,1 @@
+These files are necessary for AutoHotkey Portable to run, you do not need to access them regularly.

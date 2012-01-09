@@ -1,0 +1,9 @@
+#+TITLE: AutoHotKeyPortable
+#+AUTHOR: Matthew L. Fidler
+Brian All's and Jacob Mastel originally created this.  However, I
+cannot find it, so I made a source repository for AutHotKey
+Portable. See http://portableapps.com/node/18658
+
+To use this, first download the AutHotkey Basic zip file and extract
+and place in the =App\Autohotkey= directory.  Then compile the scripts
+in the nsis directory.  

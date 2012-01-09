@@ -1,0 +1,9 @@
+AutoHotkey Portable Smart GUI Creator Add-On
+-----------------------------
+This Add-On is distributed as a separate addition to 
+AutoHotkey Portable. Smart GUI Creator is a small program 
+used to assist in the creation of Graphical User Interfaces.
+
+Distributed under the GNU GPL, this software comes with ABSOLUTELY NO WARRANTY. 
+This is free software, and you are welcome to redistribute it under certain conditions; 
+please see the file License.txt in AutoHotkeyPortable\Other\Source for more information.
